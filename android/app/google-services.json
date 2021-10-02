@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "969191336521",
+    "project_id": "flash-chat-64cad",
+    "storage_bucket": "flash-chat-64cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969191336521:android:f940c5bdff7148b8b36d98",
+        "android_client_info": {
+          "package_name": "co.Tamunorth.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969191336521-bubjh46lntjpk628hnc4m4vkjedq6efq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnHAjXCIENL4JJ6RrHpW3ExuX5U4E6-5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969191336521-bubjh46lntjpk628hnc4m4vkjedq6efq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
